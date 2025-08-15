@@ -1,4 +1,4 @@
-![Greenline Logo](app/assets/Greenline_logo.png)
+![Greenline Logo](greenline_demo/app/assets/Greenline_logo.png)
 
 # Greenline — HR Sustainability & Lineage Demo
 
