@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="assets/greenline_logo.png" width="420" alt="Greenline logo">
+  <img src="assets/Greenline_logo.png" width="420" alt="Greenline logo">
 </p>
 
 # Greenline — HR Sustainability & Lineage Demo
