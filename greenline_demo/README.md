@@ -17,7 +17,7 @@
 - **Reporting calendar** (Gantt) and **export** to JSON/CSV
 - **Dark / high-contrast mode** and branded UI
 
-> This project is for demonstration/education. It does **not** contain proprietary Coca-Cola assets and is not affiliated with any brand.
+> This project is for demonstration/education. It does **not** contain proprietary assets and is not affiliated with any brand.
 
 ---
 
