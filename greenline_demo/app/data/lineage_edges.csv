@@ -1,0 +1,13 @@
+source,target
+Workday.HRIS.Job,Synapse.hr_curated.jobs
+Workday.Compensation,Synapse.hr_curated.comp
+EHS.Incidents,Synapse.ehs_curated.incidents
+Energy.Meters,Synapse.esg_curated.scope2
+Synapse.hr_curated.jobs,Synapse.hr_mart.people_facts
+Synapse.hr_curated.comp,Synapse.hr_mart.people_facts
+Synapse.ehs_curated.incidents,Synapse.hr_mart.safety_facts
+Synapse.esg_curated.scope2,Synapse.hr_mart.carbon_facts
+Synapse.hr_mart.people_facts,PowerBI.DEI_Representation
+Synapse.hr_mart.people_facts,PowerBI.Pay_Equity
+Synapse.hr_mart.safety_facts,PowerBI.Safety_IR
+Synapse.hr_mart.carbon_facts,PowerBI.Carbon_per_FTE

@@ -1,0 +1,6 @@
+metric_id,description,SEC,CSRD,GRI
+DEI_Representation,% women in management,S-K 101(c),S1-16,405-1
+Pay_Equity,median pay ratio F/M,S-K 402(u),S1-18,405-2
+Training_Hours,avg training hours per FTE,,S1-14,404-1
+Safety_IR,incident rate (TRIR),,S1-15,403-9
+Carbon_per_FTE,Scope 2 per FTE (kg CO2e),Reg S-K MD&A,E1-6,305-2

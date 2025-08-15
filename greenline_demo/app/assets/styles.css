@@ -1,0 +1,37 @@
+
+<style>
+/* Top banner */
+.cc-banner {
+  background: #E4002B;
+  color: #fff;
+  border-radius: 8px;
+  padding: 14px 18px;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.cc-pill {
+  background: rgba(255,255,255,0.18);
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+/* Buttons */
+.stButton>button {
+  border-radius: 8px;
+  font-weight: 600;
+}
+/* Cards */
+.cc-card {
+  border: 1px solid #EEE;
+  border-radius: 10px;
+  padding: 12px 14px;
+  background: #FFF;
+}
+/* KPI badge */
+.kpi-badge {
+  font-size: 0.85rem;
+  color: #555;
+}
+</style>
