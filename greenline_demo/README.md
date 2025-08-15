@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="assets/Greenline_logo.png" width="420" alt="Greenline logo">
-</p>
+![Greenline Logo](app/assets/Greenline_logo.png)
 
 # Greenline — HR Sustainability & Lineage Demo
 
