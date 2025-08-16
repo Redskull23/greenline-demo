@@ -42,10 +42,10 @@
 
 ```bash
 git clone https://github.com/Redskull23/greenline-demo.git
-cd greenline-demo
+cd greenline_demo
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .\.venv\Scripts\activate
 
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app/streamlit_app.py
